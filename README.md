@@ -15,4 +15,4 @@ Pre-final year B.Tech CSE student at IIIT Sonepat, passionate about engineering 
 ![](https://github-profile-trophy.vercel.app/?username=Prakshit0902&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Prakshit0902&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Prakshit0902&color=brightgreen&style=flat-square&label=Profile+Views)](https://visitcount.itsvg.in)
